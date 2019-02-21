@@ -40,7 +40,7 @@ class Song
     @@genre_count.keys
   end
   
-  def genre_count
+  def self.genre_count
     @@genre_count
   end
   
