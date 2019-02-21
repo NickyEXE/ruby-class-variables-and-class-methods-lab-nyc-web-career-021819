@@ -40,4 +40,6 @@ class Song
     @@genre_count.keys
   end
   
+  def genre_count
+  
 end
